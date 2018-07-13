@@ -1,0 +1,19 @@
+.StatusPage {
+  position: relative;
+  display: block;
+  min-height: 100vh;
+  padding: 12px;  
+}
+
+.panel-block {
+  padding: 8px;
+}
+
+label {
+  position: relative;
+  display: block;
+  float: left;
+  width: 90px;
+  margin-right: 8px;  
+  text-align: right; 
+}
