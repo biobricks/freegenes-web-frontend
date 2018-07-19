@@ -9,11 +9,11 @@
   padding: 8px;
 }
 
-label {
+.StatusPage label {
   position: relative;
   display: block;
   float: left;
   width: 90px;
   margin-right: 8px;  
   text-align: right; 
-}
+} 
