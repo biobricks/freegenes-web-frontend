@@ -14,7 +14,7 @@ class LandingPage extends Component {
                 Welcome To Free Genes
               </div>
               <div className="panel-block">
-                <p style={{'margin': '0 auto', 'textAlign': 'center'}}>
+                <p>
                   Please select from&nbsp;
                   <Link to="/submit">Submit</Link>
                   &nbsp;or&nbsp;
