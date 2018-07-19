@@ -5,8 +5,8 @@
   padding: 12px;  
 }
 
-.panel-block {
-  padding: 8px;
+.StatusPage .panel-block {
+  padding: 12px;
 }
 
 .StatusPage label {
@@ -16,4 +16,12 @@
   width: 90px;
   margin-right: 8px;  
   text-align: right; 
-} 
+}
+
+.StatusPage .columns.is-multiline .column {
+  margin-top: 4px;
+}
+
+.StatusPage .column.sequence {
+  word-break: break-all;
+}
